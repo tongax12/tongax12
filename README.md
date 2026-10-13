@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gastón 👋
 
-### Backend Developer Jr · Node.js · Express · PostgreSQL
+### FullStack Developer | Backend Focus · Node.js · Express · PostgreSQL
 
 Estoy dando mis primeros pasos como **Backend Developer**, con formación en **Node.js**, **Express** y **PostgreSQL**, egresado del programa de Desarrollo Web Full Stack de **SoyHenry** con especialización en Backend.
 
